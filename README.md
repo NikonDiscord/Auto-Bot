@@ -1,0 +1,2 @@
+# Auto-Bot
+Bot HiProtect
