@@ -1,0 +1,8 @@
+{
+    "channels": [],
+    "admins": [],
+    "echo": true,
+    "ban": true,
+    "hooks": {},
+    "guild_id": [INSERT YOUR SERVER ID HERE]
+}
